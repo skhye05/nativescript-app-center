@@ -1,28 +1,34 @@
-import { Observable } from 'tns-core-modules/data/observable';
-import * as app from 'tns-core-modules/application';
-import * as dialogs from 'tns-core-modules/ui/dialogs';
+import { ErrorReport } from './Models/error.model';
 
-export class Common extends Observable {
-  public message: string;
-
-  constructor() {
-    super();
-    this.message = Utils.SUCCESS_MSG();
-  }
-
-  public greet() {
-    return "Hello, NS";
-  }
+export interface InitOption {
+  analytics: boolean;
+  crashes: boolean;
+  distribute: boolean;
+  push: boolean;
+  appSecret: string;
 }
 
-export class Utils {
-  public static SUCCESS_MSG(): string {
-    let msg = `Your plugin is working on ${app.android ? 'Android' : 'iOS'}.`;
+export interface TrackEventOption {
+  eventName: string;
+  properties?: any;
+}
 
-    setTimeout(() => {
-      dialogs.alert(`${msg} For real. It's really working :)`).then(() => console.log(`Dialog closed.`));
-    }, 2000);
+export interface PropertyOption {
+  key: string;
+  value: string;
+}
 
-    return msg;
-  }
+export interface AnalyticsListener {
+  onBeforeSending?: (log: any) => void;
+  onSendingFailed?: (log: any, e: any) => void;
+  onSendingSucceeded?: (log: any) => void;
+}
+
+
+export interface CrashesListener {
+  shouldProcess?: (report: ErrorReport) => void;
+  shouldAwaitUserConfirmation?: () => boolean;
+  onBeforeSending?: (report: ErrorReport) => void;
+  onSendingFailed?: (report: ErrorReport, e: any) => void;
+  onSendingSucceeded?: (report: ErrorReport) => void;
 }

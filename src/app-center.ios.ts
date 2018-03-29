@@ -1,5 +1,5 @@
-import { Common } from './app-center.common';
+// import { Common } from './app-center.common';
 
-export class AppCenter extends Common {
+export class AppCenter {
 
 }
