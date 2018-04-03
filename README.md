@@ -8,7 +8,7 @@ You will need the App Secret key in order to start the plugin. The App Secret ca
 ## Installation
 
 ```javascript
-tns plugin add <nativescript-app-center>
+tns plugin add nativescript-app-center
 ```
 
 ## Usage 
