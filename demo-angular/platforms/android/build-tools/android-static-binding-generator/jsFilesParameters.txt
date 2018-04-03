@@ -1,0 +1,5 @@
+C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\assets\app\0.js
+C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\assets\app\bundle.js
+C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\assets\app\starter.js
+C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\assets\app\vendor.js

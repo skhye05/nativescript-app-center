@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

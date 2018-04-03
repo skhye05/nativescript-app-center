@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\cd4fba46ba0b912b07408884f09a5bf2a905e431\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\cd4fba46ba0b912b07408884f09a5bf2a905e431\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\cd4fba46ba0b912b07408884f09a5bf2a905e431\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\cd4fba46ba0b912b07408884f09a5bf2a905e431\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]

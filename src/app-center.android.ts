@@ -12,6 +12,7 @@ const utils = require("tns-core-modules/utils/utils");
 import * as frame from "tns-core-modules/ui/frame";
 
 declare const com: any;
+declare const java: any;
 declare const android: any;
 
 export class AppCenter {
@@ -65,16 +66,6 @@ export class AppCenter {
             com.microsoft.appcenter.analytics.Analytics.trackEvent(eventName);
         }
     }
-
-    // isAnalyticsEnabled(callback: (enabled: boolean) => void): void {
-    //     //     return new Promise((resolve, reject) => {
-    //     com.microsoft.appcenter.analytics.Analytics.isEnabled().thenAccept(new com.microsoft.appcenter.utils.async.AppCenterConsumer({
-    //         accept(enabled: boolean) {
-    //             callback(enabled);
-    //         }
-    //     }));
-    //     // });
-    // }
 
     isAnalyticsEnabled(): Promise<boolean> {
         return new Promise((resolve, reject) => {
@@ -162,90 +153,4 @@ export class AppCenter {
     crashesNotifyUserConfirmationAlwaysSend(): void {
         com.microsoft.appcenter.crashes.Crashes.notifyUserConfirmation(com.microsoft.appcenter.crashes.Crashes.ALWAYS_SEND);
     }
-
-    // Distribute
-
-    isDistributeEnabled(): Promise<boolean> {
-        return new Promise((resolve, reject) => {
-            resolve(com.microsoft.appcenter.distribute.Distribute.isEnabled().get());
-        });
-    }
-
-    isDistributeEnabledSync(): boolean {
-        return com.microsoft.appcenter.distribute.Distribute.isEnabled().get();
-    }
-
-    onDistribute(onReleaseAvailable?: (activity, releaseDetails) => boolean): void {
-        let customerListener = new com.microsoft.appcenter.distribute.DistributeListener.extend({
-            onReleaseAvailable: onReleaseAvailable
-        });
-
-        com.microsoft.appcenter.distribute.Distribute.setListener(new customerListener());
-    }
-
-    setDistributeEnabled(arg: boolean): void {
-        com.microsoft.appcenter.distribute.Distribute.setEnabled(arg);
-    }
-
-    // Push
-
-
 }
-
-// @JavaProxy("com.tns.NativeScriptActivity")
-// class Activity extends android.app.Activity {
-//     private _callbacks: AndroidActivityCallbacks;
-
-//     protected onCreate(savedInstanceState: android.os.Bundle): void {
-//         if (!this._callbacks) {
-//             setActivityCallbacks(this);
-//         }
-//         this._callbacks.onCreate(this, savedInstanceState, super.onCreate);
-
-//         console.info(`MainActivity.onStart`);
-//     }
-
-//     protected onSaveInstanceState(outState: android.os.Bundle): void {
-//         this._callbacks.onSaveInstanceState(this, outState, super.onSaveInstanceState);
-//     }
-
-//     protected onStart(): void {
-//         this._callbacks.onStart(this, super.onStart);
-//         console.info(`MainActivity.onStart`);
-//     }
-
-//     protected onStop(): void {
-//         this._callbacks.onStop(this, super.onStop);
-//     }
-
-//     protected onDestroy(): void {
-//         this._callbacks.onDestroy(this, super.onDestroy);
-//     }
-
-//     public onBackPressed(): void {
-//         console.log('start');
-//         this._callbacks.onBackPressed(this, super.onBackPressed);
-//     }
-
-//     public onRequestPermissionsResult(requestCode: number, permissions: Array<String>, grantResults: Array<number>): void {
-//         this._callbacks.onRequestPermissionsResult(this, requestCode, permissions, grantResults, undefined /*TODO: Enable if needed*/);
-//     }
-
-//     protected onActivityResult(requestCode: number, resultCode: number, data: android.content.Intent): void {
-//         this._callbacks.onActivityResult(this, requestCode, resultCode, data, super.onActivityResult);
-//     }
-
-//     onNewIntent(intent: android.content.Intent): void {
-//         super.onNewIntent(intent);
-//         // const activity = application.android.foregroundActivity || application.android.startActivity;
-//         // if (activity) {
-//         //   activity.setIntent(intent);
-//         //   nfcIntentHandler.savedIntent = intent;
-//         //   nfcIntentHandler.parseMessage();
-//         // }
-//     }
-
-// }
-
-
-

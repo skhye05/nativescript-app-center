@@ -186,9 +186,8 @@ Add code in your view model or component (Make sure you have replaced **{Your Ap
 | key      | `string` | Property identifier   |
 | value    | `string` | Property actual value |
 
-#### Android Only
 
-#### AnalyticsListener
+#### AnalyticsListener (Android Only) 
     
 | Property           | Type                | Description                                                                                                |
 | ------------------ | ------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -196,7 +195,7 @@ Add code in your view model or component (Make sure you have replaced **{Your Ap
 | onSendingFailed    | `Callback Function` | Called when sending a log failed.                                                                          |
 | onSendingSucceeded | Callback Function   | Called when a log is sent successfully.                                                                    |
 
-#### CrashesListener
+#### CrashesListener (Android Only)
     
 | Property                    | Type                | Description                                                                                                                                                                                                             |
 | --------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

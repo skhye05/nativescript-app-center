@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="appcenter_distribute_dialog_actioned_on_disabled_toast">散發已停用</string>
+    <string name="appcenter_distribute_download_progress_number_format">%1$d MB (共 %2$d MB)</string>
+    <string name="appcenter_distribute_downloading_mandatory_update">正在下載更新</string>
+    <string name="appcenter_distribute_install">安裝</string>
+    <string name="appcenter_distribute_install_ready_message">%1$s %2$s (%3$d) 已下載並準備好安裝。</string>
+    <string name="appcenter_distribute_install_ready_title">應用程式更新已下載</string>
+    <string name="appcenter_distribute_notification_category">應用程式更新</string>
+    <string name="appcenter_distribute_unknown_sources_dialog_message">基於安全性的考量，您的裝置已設定為封鎖從未知來源取得的應用程式安裝。</string>
+    <string name="appcenter_distribute_unknown_sources_dialog_settings">設定</string>
+    <string name="appcenter_distribute_update_dialog_download">下載</string>
+    <string name="appcenter_distribute_update_dialog_message_mandatory">此應用程式的開發人員要求您更新為 %1$s %2$s (%3$d)。</string>
+    <string name="appcenter_distribute_update_dialog_message_optional">%1$s %2$s (%3$d) 已可下載及安裝。</string>
+    <string name="appcenter_distribute_update_dialog_postpone">一天後詢問我</string>
+    <string name="appcenter_distribute_update_dialog_title">應用程式更新已可使用</string>
+    <string name="appcenter_distribute_update_dialog_view_release_notes">檢視版本資訊</string>
+    <string name="appcenter_distribute_update_failed_dialog_ignore">忽略</string>
+    <string name="appcenter_distribute_update_failed_dialog_message">此版本要麼是側面載入, 要麼是在專用模式下使用瀏覽器下載的。</string>
+    <string name="appcenter_distribute_update_failed_dialog_reinstall">重新安裝應用程式</string>
+    <string name="appcenter_distribute_update_failed_dialog_title">禁用應用程式更新</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

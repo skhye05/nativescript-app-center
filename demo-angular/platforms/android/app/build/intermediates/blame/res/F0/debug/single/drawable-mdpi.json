@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\background.png",
+        "source": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo.png",
+        "source": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    }
+]

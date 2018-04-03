@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:3:2-40
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:4:2-29
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\e59651701acf493b40f2ec51e5af9d9144886a15\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\778675e74d1f0356f64e9d6153d530e401ba2ba9\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.microsoft.appcenter:appcenter:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\cda07dd1f81069333202653d6f95dfedfffaf4b6\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] C:\Users\Jonathan Mayunga\.android\build-cache\c46296da5b9f90eadb9f2c9fc10e9d0899a18eac\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Jonathan Mayunga\.android\build-cache\e826ff645f74990165d42c226ec43c43da52a042\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\cd4fba46ba0b912b07408884f09a5bf2a905e431\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\05cfc267604ece550ac8cc19407a11a4dde138e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\c1a1a202265dff8994a03acb093e4073ebe0745b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\a44161f8578d13f9ffa879d5ac8ba116e63ea616\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\725e6e08410b4c906c2de43c18a04009d07bf374\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\3cc5a24dddb23da6587622ca4d39db91238bdaee\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e16c8e37add2768c34164cad9726ce1c199a270e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e1ced7478a5d9f0d64f898a0f762d85c28d54dfa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\75a74a32bd416210bf451b88fd8020c600c52026\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\5ce77e952f082406a8a505ca467f2a2d8cecb8d7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e7a2c6dd522538644acb713a7e6108d7a05bb494\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\cd4fba46ba0b912b07408884f09a5bf2a905e431\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+MERGED from [com.microsoft.appcenter:appcenter:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\cda07dd1f81069333202653d6f95dfedfffaf4b6\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:14:5-37:19
+MERGED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:19:5-38:19
+MERGED from [:widgets-release:] C:\Users\Jonathan Mayunga\.android\build-cache\e826ff645f74990165d42c226ec43c43da52a042\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\cd4fba46ba0b912b07408884f09a5bf2a905e431\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\05cfc267604ece550ac8cc19407a11a4dde138e8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\c1a1a202265dff8994a03acb093e4073ebe0745b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\725e6e08410b4c906c2de43c18a04009d07bf374\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\3cc5a24dddb23da6587622ca4d39db91238bdaee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e16c8e37add2768c34164cad9726ce1c199a270e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e1ced7478a5d9f0d64f898a0f762d85c28d54dfa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\75a74a32bd416210bf451b88fd8020c600c52026\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\5ce77e952f082406a8a505ca467f2a2d8cecb8d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e7a2c6dd522538644acb713a7e6108d7a05bb494\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\WORK\MOBILE\PLUGINS\nativescript-app-center\demo-angular\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:11:22-80
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:12:5-88
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:12:22-85
+activity#com.microsoft.appcenter.distribute.DeepLinkActivity
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:15:9-29:20
+	android:theme
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:17:13-59
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:16:13-79
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:18:13-28:29
+action#android.intent.action.VIEW
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:19:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:21:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:22:17-78
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:22:27-75
+data
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:24:17-27:50
+	android:path
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:26:21-37
+	android:host
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:25:21-43
+	android:scheme
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:27:21-47
+receiver#com.microsoft.appcenter.distribute.DownloadManagerReceiver
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:31:9-36:20
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:31:19-92
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE+android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:33:25-79
+action#android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED
+ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:34:17-94
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-distribute:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\3904476282f0ee849384e63cfa14c9fc3b833a4a\output\AndroidManifest.xml:34:25-91
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:12:5-82
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:12:22-79
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:13:22-76
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:15:5-17:47
+	android:protectionLevel
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:16:9-63
+receiver#com.microsoft.appcenter.push.PushReceiver
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:20:9-29:20
+	android:permission
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:21:13-69
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:23:13-28:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:24:17-86
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:24:25-83
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:25:17-81
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:25:25-78
+category#${applicationId}
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:27:17-61
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:27:27-58
+service#com.microsoft.appcenter.push.TokenService
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:31:9-37:19
+	tools:ignore
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:33:13-43
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:32:13-69
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:34:13-36:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:35:17-80
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\48e72f9f95ea2ca9820663401445b73104c8a5ef\output\AndroidManifest.xml:35:25-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\cda07dd1f81069333202653d6f95dfedfffaf4b6\output\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:1.4.0] C:\Users\Jonathan Mayunga\.android\build-cache\cda07dd1f81069333202653d6f95dfedfffaf4b6\output\AndroidManifest.xml:12:22-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\cd4fba46ba0b912b07408884f09a5bf2a905e431\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\05cfc267604ece550ac8cc19407a11a4dde138e8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\c1a1a202265dff8994a03acb093e4073ebe0745b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\a44161f8578d13f9ffa879d5ac8ba116e63ea616\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\725e6e08410b4c906c2de43c18a04009d07bf374\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\3cc5a24dddb23da6587622ca4d39db91238bdaee\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e16c8e37add2768c34164cad9726ce1c199a270e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e1ced7478a5d9f0d64f898a0f762d85c28d54dfa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\75a74a32bd416210bf451b88fd8020c600c52026\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\5ce77e952f082406a8a505ca467f2a2d8cecb8d7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\e7a2c6dd522538644acb713a7e6108d7a05bb494\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\cd4fba46ba0b912b07408884f09a5bf2a905e431\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Jonathan Mayunga\.android\build-cache\cd4fba46ba0b912b07408884f09a5bf2a905e431\output\AndroidManifest.xml:26:9-47

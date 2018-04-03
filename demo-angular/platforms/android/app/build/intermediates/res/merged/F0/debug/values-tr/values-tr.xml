@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="appcenter_distribute_dialog_actioned_on_disabled_toast">Dağıtım devre dışı bırakıldı</string>
+    <string name="appcenter_distribute_download_progress_number_format">%1$d MB / %2$d MB</string>
+    <string name="appcenter_distribute_downloading_mandatory_update">Güncelleştirme indiriliyor</string>
+    <string name="appcenter_distribute_install">Yükle</string>
+    <string name="appcenter_distribute_install_ready_message">%1$s %2$s (%3$d) indirildi ve yükleme için hazır.</string>
+    <string name="appcenter_distribute_install_ready_title">Uygulama güncelleştirmesi indirildi</string>
+    <string name="appcenter_distribute_notification_category">Uygulama güncelleştirmeleri</string>
+    <string name="appcenter_distribute_unknown_sources_dialog_message">Güvenlik nedenleriyle, cihazınız bilinmeyen kaynaklardan gelen uygulamaların yüklenmesini engelleyecek şekilde ayarlandı.</string>
+    <string name="appcenter_distribute_unknown_sources_dialog_settings">Ayarlar</string>
+    <string name="appcenter_distribute_update_dialog_download">İndir</string>
+    <string name="appcenter_distribute_update_dialog_message_mandatory">Bu uygulamanın geliştiricileri %1$s %2$s (%3$d) sürümüne güncelleştirmenizi gerektiriyor.</string>
+    <string name="appcenter_distribute_update_dialog_message_optional">%1$s %2$s (%3$d), indirme ve yükleme için hazır.</string>
+    <string name="appcenter_distribute_update_dialog_postpone">Bir gün içinde sor</string>
+    <string name="appcenter_distribute_update_dialog_title">Uygulama güncelleştirmesi kullanılabilir</string>
+    <string name="appcenter_distribute_update_dialog_view_release_notes">Sürüm notlarını görüntüle</string>
+    <string name="appcenter_distribute_update_failed_dialog_ignore">Görmezden</string>
+    <string name="appcenter_distribute_update_failed_dialog_message">Bu sürüm ya yan yüklenen veya özel modda bir tarayıcı kullanılarak indirilmiş.</string>
+    <string name="appcenter_distribute_update_failed_dialog_reinstall">Uygulamayı yeniden yükle</string>
+    <string name="appcenter_distribute_update_failed_dialog_title">Uygulama içi güncelleştirmeler devre dışı</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

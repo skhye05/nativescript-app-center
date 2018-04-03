@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\WORK\\MOBILE\\PLUGINS\\nativescript-app-center\\demo-angular\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Jonathan Mayunga\\.android\\build-cache\\c7fa90ad3162fa4896ffb0d2db4d5675704ac247\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
