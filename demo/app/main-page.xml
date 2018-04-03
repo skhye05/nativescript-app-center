@@ -2,10 +2,8 @@
   xmlns:ui="nativescript-app-center">
   <GridLayout>
       <StackLayout horizontalAlignment="center" verticalAlignment="center">
-        <Label text="{{ message }}" class="t-20 text-center c-black" textWrap="true" />
         <Button tap="{{ trackEvent }}" text="track Event" height="70" width="150" />
         <Button tap="{{ testCrash }}" text="test Crash" height="70" width="150" />
-        <Button tap="{{ distribute }}" text="Is Distribute" height="70" width="150" />
       </StackLayout>
   </GridLayout>
 </Page>

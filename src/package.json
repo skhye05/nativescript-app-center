@@ -36,7 +36,9 @@
         "NativeScript",
         "JavaScript",
         "Android",
-        "iOS"
+        "iOS",
+        "Microsoft",
+        "App Center"
     ],
     "author": {
         "name": "Jonathan Mayunga",
