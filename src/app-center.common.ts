@@ -28,6 +28,7 @@ export interface AnalyticsListener {
 export interface CrashesListener {
   shouldProcess?: (report: ErrorReport) => void;
   shouldAwaitUserConfirmation?: () => boolean;
+  getErrorAttachments?: (report: ErrorReport) => any;
   onBeforeSending?: (report: ErrorReport) => void;
   onSendingFailed?: (report: ErrorReport, e: any) => void;
   onSendingSucceeded?: (report: ErrorReport) => void;

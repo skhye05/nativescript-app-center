@@ -12,9 +12,10 @@ export class HelloWorldModel extends Observable {
     super();
 
     this.appCenter = new AppCenter();
-    this.message = "Tap Button";
 
-    this.appCenter.onCrashesListener({
+    // Analytics Callbacks
+
+    this.appCenter.onAnalyticsListener({
       onBeforeSending: (report: any) => {
         console.log('before');
       },
@@ -26,23 +27,49 @@ export class HelloWorldModel extends Observable {
       }
     });
 
-    this.appCenter.start({
-      analytics: true,
-      crashes: true,
-      push: false,
-      distribute: false,
-      appSecret: '8b214e43-1faa-4027-aecf-850c2a16434c'
+    // Crashes Callbacks
+
+    this.appCenter.onCrashesListener({
+      shouldProcess: (report: ErrorReport) => {
+        console.log('should Process');
+        return true;
+      },
+      shouldAwaitUserConfirmation: () => {
+        console.log('Confirm');
+        return false;
+      },
+      getErrorAttachments: (report: ErrorReport) => {
+        return null;
+      },
+      onBeforeSending: (report: ErrorReport) => {
+        console.log('before');
+      },
+      onSendingFailed: (report: ErrorReport, e: any) => {
+        console.log('failed');
+      },
+      onSendingSucceeded: (report: ErrorReport) => {
+        console.log('success');
+      }
     });
+
 
   }
 
   trackEvent(): void {
+    console.log('track');
     let property: Array<PropertyOption> = new Array<PropertyOption>();
     property.push({ key: "name", value: "mayunga2" }, { key: "Surname", value: "Jonathan" });
     this.appCenter.trackEvent('Clicked', property);
   }
 
   testCrash(): void {
+    console.log('Crash');
     this.appCenter.testCraches();
+  }
+
+  distribute(): void {
+    this.appCenter.isDistributeEnabled().then((enabled) => {
+      console.log(enabled);
+    });
   }
 }
