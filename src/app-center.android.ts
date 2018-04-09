@@ -20,9 +20,7 @@ export class AppCenter {
     private appCenter: any;
     private classes: Array<any>;
 
-    constructor() {
-        this.appCenter = new com.microsoft.appcenter.AppCenter();
-    }
+    constructor() { }
 
     start(option: InitOption): void {
 
