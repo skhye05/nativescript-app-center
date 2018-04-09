@@ -36,14 +36,6 @@ export class AppCenter {
             this.classes.push(com.microsoft.appcenter.crashes.Crashes.class);
         }
 
-        if (option.distribute) {
-            this.classes.push(com.microsoft.appcenter.distribute.Distribute.class);
-        }
-
-        if (option.push) {
-            this.classes.push(com.microsoft.appcenter.push.Push.class);
-        }
-
         setTimeout(() => {
             com.microsoft.appcenter.AppCenter.start(utils.ad.getApplication(), option.appSecret, this.classes);
         }, 200);
