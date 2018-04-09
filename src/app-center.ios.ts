@@ -50,14 +50,6 @@ export class AppCenter {
                     classes.addObject(MSCrashes);
                 }
 
-                if (option.distribute) {
-                    classes.addObject(MSDistribute);
-                }
-
-                if (option.push) {
-                    classes.addObject(MSPush);
-                }
-
                 MSAppCenter.startWithServices(option.appSecret, classes);
 
                 return true;
