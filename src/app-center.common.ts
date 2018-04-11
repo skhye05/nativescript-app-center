@@ -3,8 +3,6 @@ import { ErrorReport } from './Models/error.model';
 export interface InitOption {
   analytics: boolean;
   crashes: boolean;
-  distribute: boolean;
-  push: boolean;
   appSecret: string;
 }
 

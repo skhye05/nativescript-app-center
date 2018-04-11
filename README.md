@@ -68,8 +68,6 @@ Add code in your view model or component (Make sure you have replaced **{Your Ap
     appCenter.start({
       analytics: true,
       crashes: true,
-      push: false,
-      distribute: false,
       appSecret: '{Your App Secret}'
     });
 
