@@ -74,7 +74,7 @@ export class AppCenter {
             let _properties = NSMutableDictionary.alloc().init();
 
             properties.forEach(property => {
-                _properties.setValueForKey(property.key, property.value);
+                _properties.setValueForKey(property.value, property.key);
             });
 
             MSAnalytics.trackEventWithProperties(eventName, _properties);
